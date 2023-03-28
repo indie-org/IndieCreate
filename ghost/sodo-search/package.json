@@ -88,7 +88,7 @@
     "rewire": "6.0.0",
     "serve-handler": "6.1.5",
     "tailwindcss": "3.2.7",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "5.0.1"
   },
   "resolutions": {
     "//": "See https://github.com/facebook/create-react-app/issues/11773",
